@@ -1,5 +1,5 @@
 # Farsi-word-cloud-generator
-This notebook can generate Farsi (Persian) word clouds from twitter data.  
+This notebook can generate Farsi (Persian) word clouds from Twitter data.  
   
 Data gathering phase is not included in this code, I used snscrape for this purpose. Check this link out for more details:  
 https://betterprogramming.pub/how-to-scrape-tweets-with-snscrape-90124ed006af  
